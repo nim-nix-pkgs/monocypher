@@ -11,7 +11,6 @@
   inputs.src-monocypher-master.ref   = "refs/heads/master";
   inputs.src-monocypher-master.owner = "markspanbroek";
   inputs.src-monocypher-master.repo  = "monocypher.nim";
-  inputs.src-monocypher-master.dir   = "";
   inputs.src-monocypher-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";

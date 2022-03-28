@@ -11,7 +11,6 @@
   inputs.src-monocypher-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-monocypher-v0_1_0.owner = "markspanbroek";
   inputs.src-monocypher-v0_1_0.repo  = "monocypher.nim";
-  inputs.src-monocypher-v0_1_0.dir   = "";
   inputs.src-monocypher-v0_1_0.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
